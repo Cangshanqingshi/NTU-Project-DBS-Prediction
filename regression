@@ -1,0 +1,12 @@
+Äcsklearn.linear_model._base
+LinearRegression
+q )Åq}q(X   fit_interceptqàX	   normalizeqâX   copy_XqàX   n_jobsqNX   coef_qcjoblib.numpy_pickle
+NumpyArrayWrapper
+q)Åq	}q
+(X   subclassqcnumpy
+ndarray
+qX   shapeqKKÜqX   orderqX   CqX   dtypeqcnumpy
+dtype
+qX   f8qK KáqRq(KX   <qNNNJˇˇˇˇJˇˇˇˇK tqbX
+   allow_mmapqàubëbi≥ÎLI¿X	   _residuesqh)Åq}q(hhhKÖqhhhhhàubo∏j ?H@X   rank_qKX	   singular_qh)Åq}q (hhhKÖq!hhhhhàubL?“»?X
+   intercept_q"h)Åq#}q$(hhhKÖq%hhhhhàubŒ ?°éV@X   _sklearn_versionq&X   0.21.3q'ub.
